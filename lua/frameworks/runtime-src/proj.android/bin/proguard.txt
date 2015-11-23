@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:18
+-keep class com.valuepotion.sdk.VPInstallReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.valuepotion.sdk.VPInterstitialActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.cocos2dx.lua.AppActivity { <init>(...); }
+
