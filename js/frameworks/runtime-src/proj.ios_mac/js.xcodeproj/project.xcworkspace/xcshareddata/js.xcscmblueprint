@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8AA5F44DDE7B251C056A17FD7555E5D0E5A06CFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8AA5F44DDE7B251C056A17FD7555E5D0E5A06CFF" : 0,
+    "1B6100D5ABAE1D62C09C9B8653D821FECCA717EE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B2526F34-A506-426C-A682-8192FE1172B7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8AA5F44DDE7B251C056A17FD7555E5D0E5A06CFF" : "sdkbox-valuepotion-sample\/",
+    "1B6100D5ABAE1D62C09C9B8653D821FECCA717EE" : "sdkbox-valuepotion-sample\/cocos2d-x-3.6-lib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "js",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "js\/frameworks\/runtime-src\/proj.ios_mac\/js.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yinjimmy\/cocos2d-x-3.6-lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B6100D5ABAE1D62C09C9B8653D821FECCA717EE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:wanghuan1115\/sdkbox-valuepotion-sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AA5F44DDE7B251C056A17FD7555E5D0E5A06CFF"
+    }
+  ]
+}
