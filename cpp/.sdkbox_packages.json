@@ -3,7 +3,7 @@
         "engine": "3", 
         "constants": {
             "ANDROID_STUDIO_JNI_DIR": "n/a", 
-            "COCOS_BACKUP_DIR": "backup-2015-11-26/", 
+            "COCOS_BACKUP_DIR": "backup-2015-11-30/", 
             "COCOS_PROJECT_DIR": "./", 
             "COCOS_2DX_INSTALLATION_VERSION": "3.7.0", 
             "ANDROID_COCOS_PACKAGE_ROOT": "proj.android/", 
@@ -19,7 +19,7 @@
             "COCOS_CLASSES_DIR": "Classes/", 
             "XCODE_PROJECT": "proj.ios_mac/cpp.xcodeproj/project.pbxproj", 
             "ANDROID_SDK_DIR": "/Users/qeeplay/Documents/work/android/android-sdk-macosx/", 
-            "COCOS_2DX_ROOT": "/Applications/Cocos/frameworks/cocos2d-x-3.7/", 
+            "COCOS_2DX_ROOT": "/Applications/Cocos/frameworks/cocos2d-x-3.8/", 
             "ANDROID_MANIFEST": "proj.android/AndroidManifest.xml", 
             "ANDROID_STUDIO_MANIFEST": "n/a", 
             "ANDROID_JNI_DIR": "proj.android/jni/", 
@@ -39,9 +39,9 @@
         }, 
         "version": [
             1, 
-            4, 
-            1, 
-            7
+            5, 
+            0, 
+            2
         ], 
         "name": "valuepotion", 
         "args": {
