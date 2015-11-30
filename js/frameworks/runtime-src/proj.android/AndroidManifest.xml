@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" /><activity android:name="com.valuepotion.sdk.VPInterstitialActivity" android:theme="@android:style/Theme.Translucent" /><receiver android:exported="true" android:name="com.valuepotion.sdk.VPInstallReceiver"><intent-filter><action android:name="com.android.vending.INSTALL_REFERRER" /></intent-filter><intent-filter /><intent-filter /></receiver></application>
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" /><activity android:name="com.valuepotion.sdk.VPInterstitialActivity" android:theme="@android:style/Theme.Translucent" /><receiver android:exported="true" android:name="com.valuepotion.sdk.VPInstallReceiver"><intent-filter><action android:name="com.android.vending.INSTALL_REFERRER" /></intent-filter><intent-filter /><intent-filter /><intent-filter /></receiver></application>
 
     <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true" />
 					  
